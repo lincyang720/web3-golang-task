@@ -9,8 +9,8 @@ module.exports = {
   solidity: "0.8.28",
   networks:{
     sepolia: {
-      url: "https://sepolia.infura.io/v3/023fb439d0cb4bf784b8827497e71da9",
-      accounts: ["5fb0d527911392bd021a6cad58c90bc5794b1a7354f5840f38170c758f95c6a7"],
+      url: "https://sepolia.infura.io/v3/",
+      accounts: [""],
     },
   },
   namedAccounts: {
